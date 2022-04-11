@@ -1,16 +1,18 @@
-# custom_appbar
+# Como Criar AppBar Widget no Flutter
 
-A new Flutter project.
+![Como Criar AppBar Widget](https://user-images.githubusercontent.com/102990267/162762295-7e04990f-56c8-4863-a953-c60366be7984.png)
 
-## Getting Started
+Esse repositório faz parte de um tutorial sobre criação
+de AppBar Widget  no Flutter.
 
-This project is a starting point for a Flutter application.
+## Youtube
 
-A few resources to get you started if this is your first Flutter project:
+Se você quiser assistir ao vídeo tutorial no youtube.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[Como Criar AppBar Widget no Flutter](https://www.youtube.com/watch?v=nlndxiQE7jM)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Artigo
+
+Se você prefere fazer uma leitura.
+
+[Como Criar AppBar Widget no Flutter](https://www.youtube.com/watch?v=nlndxiQE7jM)
